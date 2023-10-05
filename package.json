@@ -65,7 +65,7 @@
   "dependencies": {
     "superstruct": "^0.16.0",
     "tiny-invariant": "^1.2.0",
-    "tslib": "^2.4.0"
+    "tslib": "^2.6.2"
   },
   "resolutions": {
     "@types/bn.js": "^5"
